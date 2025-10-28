@@ -138,7 +138,7 @@ class GestionBibliotheque {
 }
 ```
 
-##Commentaire
+## Commentaire
 -ArrayList est un conteneur dynamique qui stocke des objets Livre et s'agrandit automatiquement à chaque ajout.
 -Il permet de parcourir et gérer facilement une collection d'objets sans fixer sa taille à l'avance.
 
@@ -816,6 +816,7 @@ Ce document est prêt à être diffusé, imprimé, ou converti en PDF pour votre
 
 
 ![](collection.jpg)
+
 
 
 
