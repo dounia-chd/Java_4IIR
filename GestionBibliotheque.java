@@ -1,4 +1,4 @@
-package exercice;
+package test;
 
 import java.util.ArrayList;
 
@@ -25,4 +25,5 @@ class GestionBibliotheque {
         gb.ajouterLivre(new Livre("1984", "George Orwell", 1949));
         gb.afficherLivres();
     }
+
 }
