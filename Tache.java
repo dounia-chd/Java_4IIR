@@ -1,4 +1,4 @@
-package exercice;
+package test;
 
 import java.util.LinkedList;
 
@@ -46,4 +46,5 @@ class GestionTaches {
         gt.terminerPremiereTache();
         gt.afficherTaches();
     }
+
 }
