@@ -1,4 +1,4 @@
-package exercice;
+package test;
 
 
 public class Livre {
@@ -25,9 +25,3 @@ public class Livre {
                '}';
     }
 }
-/*
- Ce code implémente une classe `Livre` pour modéliser des livres avec des attributs de titre,
- auteur et année. La classe `GestionBibliotheque` utilise un `ArrayList` pour 
- stocker dynamiquement des objets `Livre`, permettant d'ajouter et d'afficher les livres facilement.
- L'utilisation d'une `ArrayList` facilite la gestion de la collection de livres sans nécessiter de taille prédéfinie.
- */
